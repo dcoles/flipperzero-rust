@@ -1,2 +1,4 @@
+/.ufbt/
+/firmware/
 .DS_Store
 .direnv/

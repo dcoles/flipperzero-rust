@@ -1,3 +1,8 @@
 {
-    "editor.formatOnSave": true
+    "cortex-debug.enableTelemetry": false,
+    "cortex-debug.variableUseNaturalFormat": false,
+    "cortex-debug.armToolchainPath": ".ufbt/toolchain/x86_64-windows/bin",
+    "cortex-debug.openocdPath": ".ufbt/toolchain/x86_64-windows/bin/openocd",
+    "cortex-debug.gdbPath": ".ufbt/toolchain/x86_64-windows/bin/arm-none-eabi-gdb-py3",
+    "editor.formatOnSave": true,
 }
